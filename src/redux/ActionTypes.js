@@ -1,3 +1,3 @@
 export const INCREMENT = 'INCREMENT'
-export const DECREMENT = 'DEDECREMENT'
+export const DECREMENT = 'DECREMENT'
 export const SIGN_IN = 'SIGN_IN'
